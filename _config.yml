@@ -1,11 +1,11 @@
 # Site settings
 author: Sean Balke
-title: 
+title: Sean's Blog
 header-img: img/home-bg.png
 email: sean.balke@gmail.com
 copyright_name: Sean Balke
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Whatchu wanna know?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  seanbalke
