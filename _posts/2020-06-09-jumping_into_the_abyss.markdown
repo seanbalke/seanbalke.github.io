@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Jumping into the Abyss™️"
-date:       2020-06-09 16:55:55 +0000
+date:       2020-06-09 12:55:56 -0400
 permalink:  jumping_into_the_abyss
 ---
 
